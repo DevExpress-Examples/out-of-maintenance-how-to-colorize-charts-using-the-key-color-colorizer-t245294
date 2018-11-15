@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/KeyColorColorizer/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/KeyColorColorizer/MainWindow.xaml))**
+<!-- default file list end -->
 # How to colorize charts using the Key-Color Colorizer
 
 
